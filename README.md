@@ -12,3 +12,5 @@ numpy
 لینک دانلود فایل ترین این پروژه :
 
 https://drive.google.com/file/d/1-0NbGLTj1tLb1w_O1fkuodgwiUda_Ba4/view?usp=sharing
+
+این فایل باید در پوشه سی اف جی  قرار بگیرد
